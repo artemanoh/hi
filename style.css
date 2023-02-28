@@ -1,0 +1,63 @@
+.Maine-title {
+    color: olive
+}
+
+.game-title {
+      font-style:oblique
+}
+
+
+.food-title {
+      font-style:italic;
+      color:brown;
+      
+}
+
+.pancake-title{
+       font-size: medium;
+       font-style: initial;
+       color: darkblue;
+       font-size: larger;
+}
+
+.card-list {
+       width: 301px;
+       height: 500px;
+       background-color: orange;
+       overflow: scroll;
+}
+
+.game-tatle {
+    width: 300px;
+       height: 500px;
+       background-color: khaki;
+       overflow: scroll;
+}
+
+.mine-title{
+    width: 300px;
+    height: 500px;
+    background-color: indianred;
+    overflow: scroll;
+}
+
+.title-eat{
+    font-style: italic;
+    color:purple;
+    font-size: large;
+}
+   
+
+.game-title1{
+    font-style:initial;
+    color:rgb(73, 26, 159);
+    font-size: larger;
+}
+
+.food-title2{
+    font-style:italic ;
+    color: rgb(69, 11, 184) ;
+    font-size: large;
+
+}
+
